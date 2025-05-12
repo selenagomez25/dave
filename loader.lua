@@ -1,5 +1,5 @@
 local scripts = {
-    [2788229376] = "url", -- da hood
+    [2788229376] = "https://raw.githubusercontent.com/selenagomez25/dave/refs/heads/main/scritps/2788229376.lua", -- da hood
 }
 
 local gameId = game and game.PlaceId or 0
